@@ -1,4 +1,4 @@
-# Search and filter
+# Search and filter.
 
 
 ### Filter: to check a specific pattern from a file.
