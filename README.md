@@ -3,7 +3,7 @@
 
 ### Filter: to check a specific pattern from a file.
 
-### Sort
+### Sort.
 
 1. **To sort the data inside the file**
 
