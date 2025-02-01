@@ -69,7 +69,7 @@ There are two types of search utilities
 
 find (path)(options)(parameters)
 
-1. **Locate - It searches the path of a file**
+1. **Locate - It searches the path of a file.**
 
 updatedb
 
