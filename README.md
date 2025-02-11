@@ -5,7 +5,7 @@
 
 ### Sort.
 
-1. **To sort the data inside the file**
+1. **To sort the data inside the file.**
 
 sort filename 
 
