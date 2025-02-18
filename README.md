@@ -9,7 +9,7 @@
 
 sort filename 
 
-1. **To reverse the data in the file**
+1. **To reverse the data in the file.**
 
 sort -r filename
 
