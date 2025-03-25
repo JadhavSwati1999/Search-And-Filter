@@ -75,7 +75,7 @@ updatedb
 
 locate filename
 
-### **To remove the duplicate lines from the file**
+### **To remove the duplicate lines from the file.**
 
 - uniq
 
