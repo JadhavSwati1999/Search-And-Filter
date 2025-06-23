@@ -13,7 +13,7 @@ sort filename
 
 sort -r filename
 
-### Grep
+### Grep.
 
 1. ***To find the word in the specific file***
 
