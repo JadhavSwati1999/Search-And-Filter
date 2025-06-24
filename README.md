@@ -23,7 +23,7 @@ grep word filename
 
 grep -n word filename
 
-1. ***To check the unique words***
+1. ***To check the unique words.***
 
 grep -w filename
 
