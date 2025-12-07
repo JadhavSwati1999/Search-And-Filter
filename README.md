@@ -15,7 +15,7 @@ sort -r filename
 
 ### Grep.
 
-1. ***To find the word in the specific file***
+1. ***To find the word in the specific file.***
 
 grep word filename
 
