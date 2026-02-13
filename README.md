@@ -27,7 +27,7 @@ grep -n word filename
 
 grep -w filename
 
-1. ***Number of words after the particular given word***
+1. ***Number of words after the particular given word.***
 
 grep -A no. word filename
 
